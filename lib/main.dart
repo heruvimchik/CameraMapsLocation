@@ -7,7 +7,7 @@ import 'screens/add_place_screen.dart';
 import 'screens/place_detail_screen.dart';
 
 void main() => runApp(MyApp());
-//error check a
+//error check b
 
 class MyApp extends StatelessWidget {
   @override
